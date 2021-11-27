@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/http//mati99789.github.io/Reviews-react-component/static/css/main.3d9f8e8d.chunk.css",
-    "main.js": "/http//mati99789.github.io/Reviews-react-component/static/js/main.7e801fc7.chunk.js",
-    "main.js.map": "/http//mati99789.github.io/Reviews-react-component/static/js/main.7e801fc7.chunk.js.map",
-    "runtime-main.js": "/http//mati99789.github.io/Reviews-react-component/static/js/runtime-main.6e2f805b.js",
-    "runtime-main.js.map": "/http//mati99789.github.io/Reviews-react-component/static/js/runtime-main.6e2f805b.js.map",
-    "static/js/2.bdbc782b.chunk.js": "/http//mati99789.github.io/Reviews-react-component/static/js/2.bdbc782b.chunk.js",
-    "static/js/2.bdbc782b.chunk.js.map": "/http//mati99789.github.io/Reviews-react-component/static/js/2.bdbc782b.chunk.js.map",
-    "index.html": "/http//mati99789.github.io/Reviews-react-component/index.html",
-    "precache-manifest.2af6df0344f4a5b11cae0f45b99a6341.js": "/http//mati99789.github.io/Reviews-react-component/precache-manifest.2af6df0344f4a5b11cae0f45b99a6341.js",
-    "service-worker.js": "/http//mati99789.github.io/Reviews-react-component/service-worker.js",
-    "static/css/main.3d9f8e8d.chunk.css.map": "/http//mati99789.github.io/Reviews-react-component/static/css/main.3d9f8e8d.chunk.css.map",
-    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/http//mati99789.github.io/Reviews-react-component/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
+    "main.css": "/Reviews-react-component/static/css/main.3d9f8e8d.chunk.css",
+    "main.js": "/Reviews-react-component/static/js/main.7e801fc7.chunk.js",
+    "main.js.map": "/Reviews-react-component/static/js/main.7e801fc7.chunk.js.map",
+    "runtime-main.js": "/Reviews-react-component/static/js/runtime-main.3a7c1153.js",
+    "runtime-main.js.map": "/Reviews-react-component/static/js/runtime-main.3a7c1153.js.map",
+    "static/js/2.bdbc782b.chunk.js": "/Reviews-react-component/static/js/2.bdbc782b.chunk.js",
+    "static/js/2.bdbc782b.chunk.js.map": "/Reviews-react-component/static/js/2.bdbc782b.chunk.js.map",
+    "index.html": "/Reviews-react-component/index.html",
+    "precache-manifest.fe2712f9b8514da9524834a160f59409.js": "/Reviews-react-component/precache-manifest.fe2712f9b8514da9524834a160f59409.js",
+    "service-worker.js": "/Reviews-react-component/service-worker.js",
+    "static/css/main.3d9f8e8d.chunk.css.map": "/Reviews-react-component/static/css/main.3d9f8e8d.chunk.css.map",
+    "static/js/2.bdbc782b.chunk.js.LICENSE.txt": "/Reviews-react-component/static/js/2.bdbc782b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6e2f805b.js",
+    "static/js/runtime-main.3a7c1153.js",
     "static/js/2.bdbc782b.chunk.js",
     "static/css/main.3d9f8e8d.chunk.css",
     "static/js/main.7e801fc7.chunk.js"
