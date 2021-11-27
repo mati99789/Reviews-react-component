@@ -1,5 +1,5 @@
 # Basic fetching data tours component
-> Live demo [_here_](http//mati99789.github.io/Reviews-react-component). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://mati99789.github.io/Reviews-react-component/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
